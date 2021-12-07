@@ -1,0 +1,7 @@
+2021-12-06 23:20:27,234: This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+2021-12-06 23:20:27,629: 'd'
+2021-12-06 23:20:27,872: 'd'
+2021-12-06 23:20:28,250: 'd'
+2021-12-06 23:20:31,576: 'd'
+2021-12-06 23:20:33,447: Key.ctrl
+2021-12-06 23:20:33,808: '\x03'
